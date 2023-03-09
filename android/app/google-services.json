@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699684571113",
+    "firebase_url": "https://journalism-student-coverage-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "journalism-student-coverage",
+    "storage_bucket": "journalism-student-coverage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699684571113:android:67bb614be58bf61570ed78",
+        "android_client_info": {
+          "package_name": "com.example.ybassisstant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699684571113-vv42a4ig4vtpmfu6kuti8mel60ssnbes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiM4TP7XJRW8QYO2c08aPTXXntNTUIRFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699684571113-vv42a4ig4vtpmfu6kuti8mel60ssnbes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
